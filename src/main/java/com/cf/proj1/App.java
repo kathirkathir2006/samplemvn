@@ -11,3 +11,17 @@ public class App
         System.out.println( "Hello World!!!" );
     }
 }
+/*
+public class App {
+
+    // UnusedPrivateField
+    private String unusedField;
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+
+        // EmptyControlStatement
+        if (args.length == 0);
+    }
+}
+*/
